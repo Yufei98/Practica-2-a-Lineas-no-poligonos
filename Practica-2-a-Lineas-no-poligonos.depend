@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1601081788 source:c:\users\la neka\desktop\trabajo98\practica-2-a-lineas-no-poligonos\main.cpp
+	<windows.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<C:\GLUT\include\GL\glut.h>
+	<stdlib.h>
+
+893401200 c:\glut\include\gl\gl.h
+
+976695772 c:\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+893401200 c:\glut\include\gl\glu.h
+	<GL/gl.h>
