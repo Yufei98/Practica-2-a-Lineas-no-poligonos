@@ -7,7 +7,7 @@ En este pequeño proyecto, escrito en lenguaje C/C++ utlizando el IDE CodeBlocks
 _____________________________________________________________________________________________
 PASO 1 MOSTRAR CODIGO
 
-* Usamoos la variable void, en el cual le damos color a la panatalla con clear color y definimos el grosor de la linea
+* Usamos la variable void, en el cual le damos color a la panatalla con clear color y definimos el grosor de la linea
 en el cual es las demas imagnes mostrada a continuacion añadiremos variables como double y algunas primitivas lo cual
 utilizaremos para elavorar una ventana utilizando la biblioteca de glut.
 
